@@ -1,5 +1,5 @@
 (function () {
-    console.log("rest API")
+    console.log("Pays")
     // URL de l'API REST de WordPress
     let categories = 3;
     let url = `https://gftnth00.mywhc.ca/tim33/wp-json/wp/v2/posts?categories=${categories}`;
